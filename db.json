@@ -1,24 +1,14 @@
 {
-    "users":[
-        {
-            "id":"1",
-            "name":"Harry",
-            "email":"harry@gmail.com"
-        },
-        {
-            "id":"2",
-            "name":"Ron",
-            "email":"ron@gmail.com"
-        },
-        {
-            "id":"3",
-            "name":"Snape",
-            "email":"snape@gmail.com"
-        },
-        {
-            "id":"4",
-            "name":"Dumbledore",
-            "email":"dumbledore@gmail.com"
-        }
-    ]
+  "users": [
+    {
+      "name": "User 1",
+      "email": "user@gmail.com",
+      "id": "BJ_h5xn"
+    },
+    {
+      "name": "John 2",
+      "email": "John@gmail.com",
+      "id": "EeBh0uE"
+    }
+  ]
 }
